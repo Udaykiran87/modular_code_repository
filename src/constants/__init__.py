@@ -1,0 +1,7 @@
+CONFIG_FILE_NAME = "config.yaml"
+
+ARTIFACTS_KEY = "artifacts"
+ARTIFACTS_DIR = "ARTIFACTS_DIR"
+
+PATH_KEY = "paths"
+DUMMY_URL = "DUMMY_URL"
